@@ -21,7 +21,7 @@ class DatabaseSeeder extends Seeder
         ]);
         DB::table('users')->insert([
             'username' => 'dangphuchuu',
-            'password' => bcrypt('Phuchuu01202118657'),
+            'password' => bcrypt('1'),
             'role' => 1
         ]);
         DB::table('logos')->insert([
