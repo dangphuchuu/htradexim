@@ -7,7 +7,7 @@
                 <li class="pcoded">
                     <a href="admin/categories/list" class="waves-effect waves-dark">
                         <span class="pcoded-micon">
-                            <i class="feather icon-menu rotate-refresh"></i>
+                            <i class="feather icon-menu "></i>
                         </span>
                         <span class="pcoded-mtext">Categories</span>
                     </a>
@@ -16,7 +16,7 @@
                 <li class="pcoded">
                     <a href="admin/products/list" class="waves-effect waves-dark">
                         <span class="pcoded-micon">
-                            <i class="feather icon-package rotate-refresh"></i>
+                            <i class="feather icon-package "></i>
                         </span>
                         <span class="pcoded-mtext">Products</span>
                     </a>
@@ -25,7 +25,7 @@
                 <li class="pcoded">
                     <a href="admin/videos/list" class="waves-effect waves-dark">
                         <span class="pcoded-micon">
-                        <i class="feather icon-play-circle rotate-refresh"></i>
+                        <i class="feather icon-play-circle "></i>
                         </span>
                         <span class="pcoded-mtext">Videos</span>
                     </a>
@@ -34,7 +34,7 @@
                 <li class="pcoded">
                     <a href="admin/profiles/list" class="waves-effect waves-dark">
                         <span class="pcoded-micon">
-                            <i class="feather icon-user rotate-refresh"></i>
+                            <i class="feather icon-user "></i>
                         </span>
                         <span class="pcoded-mtext">Profiles</span>
                     </a>
@@ -43,7 +43,7 @@
                 <li class="pcoded">
                     <a href="admin/logos" class="waves-effect waves-dark">
                         <span class="pcoded-micon">
-                            <i class="feather icon-upload  rotate-refresh"></i>
+                            <i class="feather icon-upload  "></i>
                         </span>
                         <span class="pcoded-mtext">Logos</span>
                     </a>
@@ -52,7 +52,7 @@
                 <li class="pcoded">
                     <a href="admin/banners" class="waves-effect waves-dark">
                         <span class="pcoded-micon">
-                            <i class="feather icon-cpu rotate-refresh"></i>
+                            <i class="feather icon-cpu "></i>
                         </span>
                         <span class="pcoded-mtext">Banners</span>
                     </a>
@@ -61,7 +61,7 @@
                 <li class="pcoded">
                     <a href="admin/footers" class="waves-effect waves-dark">
                         <span class="pcoded-micon">
-                            <i class="feather icon-aperture rotate-refresh"></i>
+                            <i class="feather icon-aperture "></i>
                         </span>
                         <span class="pcoded-mtext">Footers</span>
                     </a>
@@ -69,7 +69,7 @@
                 <li class="pcoded">
                     <a href="admin/charity/list" class="waves-effect waves-dark">
                         <span class="pcoded-micon">
-                            <i class="feather icon-activity rotate-refresh"></i>
+                            <i class="feather icon-activity "></i>
                         </span>
                         <span class="pcoded-mtext">Charity</span>
                     </a>
@@ -78,7 +78,7 @@
                 <li class="pcoded">
                     <a href="/" class="waves-effect waves-dark">
                         <span class="pcoded-micon">
-                            <i class="feather icon-eye rotate-refresh"></i>
+                            <i class="feather icon-eye "></i>
                         </span>
                         <span class="pcoded-mtext">Htradexim</span>
                     </a>
